@@ -18,4 +18,4 @@ npm test
 - Soma
 - Validar CPF
 - Reajuste Salarial
-- [Mais exemplos...](https://docs.google.com/presentation/d/1dLzw-IDgiqn9xfD6PWUWcLvD7KYXrJ8cuV_lYKMt6LY/edit?usp=sharing)
+- [Mais exemplos...](https://medium.com/@ppbruna/4-plataformas-para-treinar-suas-habilidades-com-algoritmos-4af2149b3544)
