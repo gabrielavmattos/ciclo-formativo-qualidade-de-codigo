@@ -4,7 +4,7 @@
 
 [Framework de teste](https://jestjs.io/)
 
-[Slides da apresentação](
+[Slides da apresentação](https://docs.google.com/presentation/d/1dLzw-IDgiqn9xfD6PWUWcLvD7KYXrJ8cuV_lYKMt6LY/edit?usp=sharing)
 
 
 ## Rodando os testes: 
